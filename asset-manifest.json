@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Protected-Route/static/css/main.cb1897e1.css",
+    "main.js": "/Protected-Route/static/js/main.e19afe8f.js",
+    "index.html": "/Protected-Route/index.html",
+    "main.cb1897e1.css.map": "/Protected-Route/static/css/main.cb1897e1.css.map",
+    "main.e19afe8f.js.map": "/Protected-Route/static/js/main.e19afe8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb1897e1.css",
+    "static/js/main.e19afe8f.js"
+  ]
+}
